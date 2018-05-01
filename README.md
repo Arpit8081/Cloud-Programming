@@ -1,8 +1,10 @@
 # Cloud-Programming
 Task 2 Find maximum number using MapReduce
+
 In this task find maximum number using file.
 
 Task 3 Determines the mean of all numbers in the file using MapReduce
+
 In this function calculate the avarage value using file.
 
 Task 4 The first and second values on each line specify the source and destination of the link
