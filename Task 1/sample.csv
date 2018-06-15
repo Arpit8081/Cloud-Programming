@@ -1,0 +1,4 @@
+bookId,bookAuthor,bookName,bookIsbn,YOP,loan
+1,James Munkres,Topology,9332549532,2015,yes
+2,Allen Hatcher,Algebraic Topology,521795400,2001,no
+3,Robert Ghrist,Elementary Applied Topology,1502880857,2014,no
